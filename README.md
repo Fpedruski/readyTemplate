@@ -1,14 +1,18 @@
 ## Template4Projects
 
+
+<!--- Header --->
 <h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src=".github/logo.svg" width="220px" />
+  <img alt="Description title="Title" src="header.png" width="100%" heigth="100%" />
 </h1>
 
+                                                                          
+<!--- References --->
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-memo-license">License</a>
+  <a href="#-license">License</a>
 </p>
 
 <p align="center">
@@ -20,7 +24,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src=".github/Rocket_Q.svg" width="100%">
+  <img alt="Rocket.Q" src="main.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -41,12 +45,10 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
 
 [Figma Link](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q)
 
-## :memo: License
+## 📋 License
 
 License of MIT. Check out the [LICENSE](.github/LICENSE.md) for more info.
 
 ---
 
 Conclude with ♥ by Fpedruski:wave:
-
-With a ton of help from [RocketSeat](https://rocketseat.com.br)
