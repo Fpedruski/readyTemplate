@@ -15,6 +15,7 @@
   <a href="#-license">License</a>
 </p>
 
+<!-- Shields -->
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
 
@@ -24,7 +25,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src="main.svg" width="100%">
+  <img alt="Example of Main" src="main.svg" width="100%">
 </p>
 
 ## 🚀 Technologies
