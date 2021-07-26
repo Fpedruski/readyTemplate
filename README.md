@@ -3,7 +3,7 @@
 
 <!--- Header --->
 <h1 align="center">
-  <img alt="Description title="Title" src="header.png" width="100%" heigth="100%" />
+  <img alt="Description title" src="header.png" width="100%" heigth="100%" />
 </h1>
 
                                                                           
