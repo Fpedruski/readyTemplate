@@ -3,7 +3,7 @@
 
 <!--- Header --->
 <h1 align="center">
-  <img alt="Description title" src="header.png" width="100%" heigth="100%" />
+  <img alt="Description title" src="header.svg" width="100%" heigth="100%" />
 </h1>
 
                                                                           
@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src="main.png" width="100%">
+  <img alt="Rocket.Q" src="main.svg" width="100%">
 </p>
 
 ## 🚀 Technologies
